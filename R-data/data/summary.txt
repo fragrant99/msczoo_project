@@ -1,0 +1,7 @@
+===================== ANALYSIS SUMMARY =====================
+Sequences analyzed : 14 
+Alignment length    : 18114 bp
+Mean GC content      : 47.25 %
+Haplotype diversity  : 0.967 
+Nucleotide diversity : 0.05295 
+Tajima's D            : 0.486 (p = 0.627 )
